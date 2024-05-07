@@ -17,7 +17,7 @@ public class FrequencyCounter {
                     System.out.println("Invalid input. Number must be between 0 and 9.");
                 }
             } else {
-                System.out.println("Invalid input. Please enter a numeric value.");
+                System.out.println("Invalid input. Please enter a number value.");
                 scanner.next();  
             }
         }
